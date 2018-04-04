@@ -1,3 +1,3 @@
 # React
-A demo MVC 5 project showcasing a simple React component with a jQuery RSS plugin.
+An MVC5 project showcasing two simple React components, one of themwith CORS(RSS parser).
 The code is by no means final /clean - I'm working on it!
